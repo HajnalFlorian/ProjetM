@@ -1,2 +1,3 @@
-ChangeLog
+ChangeLog:
+05-01-2021 HF Input clavier+Manette
 04-01-2021 HF Création du git
